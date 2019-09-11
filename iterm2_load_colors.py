@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 
 
+# See https://www.iterm2.com/python-api/ for usages of iTerm2 Python API.
+
+
 import argparse
 import plistlib
 import iterm2
