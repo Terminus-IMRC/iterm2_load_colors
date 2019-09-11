@@ -34,6 +34,8 @@ async def main(connection):
             'Cursor Text Color'   : profile.set_cursor_text_color,
             'Cursor Guide Color'  : profile.set_cursor_guide_color,
             'Badge Color'         : profile.set_badge_color,
+            'Tab Color'           : profile.set_tab_color,
+            'Underline Color'     : profile.set_underline_color,
             'Ansi 0 Color'        : profile.set_ansi_0_color,
             'Ansi 1 Color'        : profile.set_ansi_1_color,
             'Ansi 2 Color'        : profile.set_ansi_2_color,
